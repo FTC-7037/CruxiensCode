@@ -1,0 +1,13 @@
+new-project
+===========
+
+cruxiens new project
+
+build an autonomous that scores the block using encoders then drives onto the ramp. 
+start from pos. blue 1 (B1)
+use functions ex...
+
+void function name (int some, int more)
+{
+do something 
+}
